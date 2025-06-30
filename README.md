@@ -1,6 +1,7 @@
 # Finansal CRM Uygulaması
 
-Bu proje, Windows Forms kullanılarak geliştirilmiş bir Finansal CRM uygulamasıdır. Uygulama, finansal işlemleri yönetmek, banka hareketlerini takip etmek ve kullanıcı dostu bir arayüzle gider/fatura kayıtlarını organize etmek için tasarlanmıştır. 
+Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygulama, kullanıcı ve admin oturumları olmak üzere ikiye ayrılmıştır.
+
 
 # 🔨  Kullanılan Teknolojiler
 ◾ C# (.NET Framework): Windows Forms   
