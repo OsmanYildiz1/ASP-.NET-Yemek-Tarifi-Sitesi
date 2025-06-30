@@ -10,10 +10,10 @@ Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygul
 ◾ GitHub: Proje versiyon kontrolü 
 
 #   Kullanıcı Paneli
-◾ Anasayfada yemek tariflerini görüntüleme 
-◾ Tariflere yorum yapma
-◾ Fotoğrafıyla birlikte tarif önerme
-◾ İletişim kısmından önerilerini ve şikayetlerini gönderme
+◾ Anasayfada yemek tariflerini görüntüleme   
+◾ Tariflere yorum yapma  
+◾ Fotoğrafıyla birlikte tarif önerme  
+◾ İletişim kısmından önerilerini ve şikayetlerini gönderme  
 
 #   Admin Paneli
 ◾ Anasayfada yemek tariflerini görüntüleme 
