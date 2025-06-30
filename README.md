@@ -4,7 +4,7 @@ Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygul
 
 
 # 🔨  Kullanılan Teknolojiler
-◾ C# (.NET Framework): Windows Forms   
-◾ Entity Framework: Veritabanı işlemleri   
+◾ ASP.NET 
+◾ HTML/CSS
 ◾ MSSQL: Veritabanı yönetimi.   
 ◾ GitHub: Proje versiyon kontrolü.  
