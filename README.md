@@ -1,8 +1,9 @@
-ASP .NET YEMEK TARİFİ SİTESİ 
-Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarifi sitesidir. 
+# Finansal CRM Uygulaması
 
-🔨 Kullanılan Teknolojiler 
-◾ C# (.NET Framework): Windows Forms 
-◾ Entity Framework: Veritabanı işlemleri 
-◾ MSSQL: Veritabanı yönetimi. 
-◾ GitHub: Proje versiyon kontrolü. 
+Bu proje, Windows Forms kullanılarak geliştirilmiş bir Finansal CRM uygulamasıdır. Uygulama, finansal işlemleri yönetmek, banka hareketlerini takip etmek ve kullanıcı dostu bir arayüzle gider/fatura kayıtlarını organize etmek için tasarlanmıştır. 
+
+# 🔨  Kullanılan Teknolojiler
+◾ C# (.NET Framework): Windows Forms   
+◾ Entity Framework: Veritabanı işlemleri   
+◾ MSSQL: Veritabanı yönetimi.   
+◾ GitHub: Proje versiyon kontrolü.  
