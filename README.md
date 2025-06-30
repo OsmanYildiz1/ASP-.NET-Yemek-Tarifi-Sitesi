@@ -1,6 +1,6 @@
 # ASP.NET Yemek Tarifi Sitesi
 
-Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygulama, kullanıcı ve admin oturumları olmak üzere ikiye ayrılmıştır.
+Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygulama, kullanıcı ve admin oturumları olmak üzere ikiye ayrılmıştır. 
 
 
 # 🔨  Kullanılan Teknolojiler  
