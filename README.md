@@ -16,7 +16,10 @@ Bu proje, ASP.NET kullanılarak geliştirilmiş bir yemek tarif sitesidir. Uygul
 ◾ İletişim kısmından önerilerini ve şikayetlerini gönderme  
 
 #   Admin Paneli
-◾ Anasayfada yemek tariflerini görüntüleme 
-◾ Tariflere yorum yapma
-◾ Fotoğrafıyla birlikte tarif önerme
-◾ İletişim kısmından önerilerini ve şikayetlerini gönderme
+◾ Yeni yemek ve yemek kategorisi ekleme, silme ve varolan kategorileri güncelleme  
+◾ Gönderilen yorumların yayınlanmadan önce onaylama kontrolü  
+◾ Gelen mesajların görüntülenmesi  
+◾ Gönderilen tariflerin içerisinden günün yemeğinin seçilmesi  
+◾ Gelen tariflerin yayınlanmadan önce onaylama kontrolü  
+◾ Hakkımızda kısmını güncelleme  
+
